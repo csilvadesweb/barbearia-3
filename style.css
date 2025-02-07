@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #111;
+    color: #fff;
+    text-align: center;
+}
+header {
+    background: url('barbearia-bg.jpg') no-repeat center center/cover;
+    padding: 80px 20px;
+    color: #fff;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.botao {
+    background: #ffcc00;
+    color: #111;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.portfolio .imagens img {
+    width: 45%;
+    margin: 5px;
+    border-radius: 10px;
+}
